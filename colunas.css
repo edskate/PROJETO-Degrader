@@ -1,0 +1,14 @@
+#coluna{
+    background-color: chartreuse;
+    width: 200Px;
+    height: 900PX;
+    float: left;
+    background:linear-gradient(25deg,rgb(48, 124, 194),rgb(0, 195, 255)),rgb(223, 12, 12);
+} 
+#coluna2{
+    background-color: crimson;
+    width: 200px;
+    height: 900px;
+    float: right;
+    background:linear-gradient(25deg,rgb(48, 124, 194),rgb(229, 255, 0)),rgb(223, 12, 12);
+}
